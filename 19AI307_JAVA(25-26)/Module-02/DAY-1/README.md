@@ -61,7 +61,7 @@ class Car{
 
 
 ## OUTPUT:
-![alt text](image.png)
+<img width="540" height="142" alt="image" src="https://github.com/user-attachments/assets/b85cfcd5-4bed-4b5a-99cd-6ce5cd7f8ce3" />
 
 
 ## RESULT:
